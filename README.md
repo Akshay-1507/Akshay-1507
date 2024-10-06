@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-1507" alt="akshay-1507" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mineportfolioo.netlify.app/](https://mineportfolioo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://3dmodeportfolio.netlify.app/)
 
 - 💬 Ask me about **Spring Boot , Java**
 
